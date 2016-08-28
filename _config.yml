@@ -1,5 +1,21 @@
-layout_spectrum: 0.16999083757400513
+name: Sandra Lindberg
+favicon: null
+layout_spectrum: 0.59581
 typography_spectrum: 0.8207081560976803
+title: Sandra Lindberg
+description: Front-end developer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,20 +27,4 @@ color:
   lightness: 0.4843912038486451
   saturation: 0.6001237856689841
   rhythmicContrast: 0.1691192821599543
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Sandra Lindberg
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Sandra Lindberg
-description: Front-end developer
 purpose: []
