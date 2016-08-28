@@ -1,0 +1,29 @@
+name: sandralindberg
+favicon: null
+layout_spectrum: 0.6143002167809755
+typography_spectrum: 0.7826707654166967
+title: 'Front-end developer '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6922826627269387
+  lightness: 0.9516167319379747
+  saturation: 0.7977265384979546
+  rhythmicContrast: 0.04943674895912409
+purpose: []
