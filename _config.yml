@@ -1,9 +1,7 @@
-name: Sandra Lindberg
+name: sandralindberg
 favicon: null
-layout_spectrum: 0.59581
-typography_spectrum: 0.8207081560976803
-title: Sandra Lindberg
-description: Front-end developer
+layout_spectrum: 0.6143002167809755
+typography_spectrum: 0.7826707654166967
 cta:
   domain: null
   bucket: null
@@ -18,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.159027686342597
-  lightness: 0.4843912038486451
-  saturation: 0.6001237856689841
-  rhythmicContrast: 0.1691192821599543
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6922826627269387
+  lightness: 0.9516167319379747
+  saturation: 0.7977265384979546
+  rhythmicContrast: 0.04943674895912409
 purpose: []
